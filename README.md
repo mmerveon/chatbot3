@@ -1,5 +1,6 @@
 # chatbot3
 
+Deze chatbot is gebouwd met behulp van de volgende tutorial. 
 https://www.analyticsvidhya.com/blog/2021/07/build-a-simple-chatbot-using-python-and-nltk/
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmerveon/chatbot3/HEAD)
