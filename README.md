@@ -7,4 +7,5 @@ https://www.analyticsvidhya.com/blog/2021/07/build-a-simple-chatbot-using-python
 
 Met deze chatbot kan je een gesprek voeren over gepest worden. Het is wel erg beperkt. 
 
-Youtube link: 
+Youtube link: https://youtu.be/bYan6qwumSQ 
+
